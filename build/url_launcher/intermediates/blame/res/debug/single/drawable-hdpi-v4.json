@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/davidoseiopoku/Desktop/Python_Project_Using_Flutter/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/davidoseiopoku/.gradle/caches/transforms-2/files-2.1/bcd2ab89d26230dea536c88e023b7268/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/davidoseiopoku/Desktop/Python_Project_Using_Flutter/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/davidoseiopoku/.gradle/caches/transforms-2/files-2.1/bcd2ab89d26230dea536c88e023b7268/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/davidoseiopoku/Desktop/Python_Project_Using_Flutter/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/davidoseiopoku/.gradle/caches/transforms-2/files-2.1/bcd2ab89d26230dea536c88e023b7268/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/davidoseiopoku/Desktop/Python_Project_Using_Flutter/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/davidoseiopoku/.gradle/caches/transforms-2/files-2.1/bcd2ab89d26230dea536c88e023b7268/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/davidoseiopoku/Desktop/Python_Project_Using_Flutter/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/davidoseiopoku/.gradle/caches/transforms-2/files-2.1/bcd2ab89d26230dea536c88e023b7268/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

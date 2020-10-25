@@ -1,0 +1,11 @@
+framework module native_state {
+  umbrella header "native_state-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module native_state.Swift {
+    header "native_state-Swift.h"
+    requires objc
+}

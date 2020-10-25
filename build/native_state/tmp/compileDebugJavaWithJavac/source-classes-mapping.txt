@@ -1,0 +1,2 @@
+nl/littlerobots/flutter/native_state/BuildConfig.java
+ nl.littlerobots.flutter.native_state.BuildConfig

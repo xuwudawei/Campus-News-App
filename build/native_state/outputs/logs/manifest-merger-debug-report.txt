@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml:1:11-57
+		INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml:1:1-3:12
+uses-sdk
+INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/davidoseiopoku/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/native_state-1.1.1/android/src/main/AndroidManifest.xml
